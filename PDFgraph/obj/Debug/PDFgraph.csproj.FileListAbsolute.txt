@@ -1,0 +1,15 @@
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\PDFgraph.exe.config
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\PDFgraph.exe
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\PDFgraph.pdb
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\PdfSharp.Charting.dll
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\PdfSharp.dll
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\PdfSharp.xml
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\PdfSharp.Charting.xml
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\de\PdfSharp.resources.dll
+D:\My data\work\GS1\PDFgraph\PDFgraph\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\My data\work\GS1\PDFgraph\PDFgraph\obj\Debug\PDFgraph.csprojResolveAssemblyReference.cache
+D:\My data\work\GS1\PDFgraph\PDFgraph\obj\Debug\PDFgraph.Form1.resources
+D:\My data\work\GS1\PDFgraph\PDFgraph\obj\Debug\PDFgraph.Properties.Resources.resources
+D:\My data\work\GS1\PDFgraph\PDFgraph\obj\Debug\PDFgraph.csproj.GenerateResource.Cache
+D:\My data\work\GS1\PDFgraph\PDFgraph\obj\Debug\PDFgraph.exe
+D:\My data\work\GS1\PDFgraph\PDFgraph\obj\Debug\PDFgraph.pdb
